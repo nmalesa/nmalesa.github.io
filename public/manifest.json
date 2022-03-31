@@ -1,0 +1,22 @@
+{
+  "name": "Notifier: Live Updates with Queues, WebSockets, and Push Notifications",
+  "short_name": "Notifier",
+  "start_url": "./public/index.html/?utm_source=pwa",
+  "orientation": "portrait",
+  "theme_color": "#ff3385",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

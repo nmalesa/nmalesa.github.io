@@ -1,0 +1,14 @@
+.container {
+    flex: 1;
+}
+
+.item {
+    background-color: #f9c2ff;
+    padding: 20px;
+    margin-vertical: 8px;
+    margin-horizontal: 16px;
+}
+
+.item_message {
+    font-size: 32px;
+}
